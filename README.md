@@ -2,7 +2,7 @@
 
 Hello!👋🏻
 =============
-I am a student majoring in Computer Science at university and I'm now in a 4th grade
+I am a student majoring in Computer Science at university, and I'm now in a 4th grade.
 
 I'm usually like to work on the Front-end, and now currently studying flutter and Kotlin.
 
