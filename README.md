@@ -1,8 +1,11 @@
 Hello!👋🏻
 =============
 > I am a college student majoring in computer science at university and am currently in the 4th grade.
+> 
 > I usually work on the front and am currently studying flutter and Kotlin.
+> 
 > I am interested in web/app programming and I can handle design tools such as Adobe Photoshop, Illustration, and XD little by little.
+> 
 >	Welcome to my Github:)
 * * *
 
