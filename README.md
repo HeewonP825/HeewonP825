@@ -8,8 +8,6 @@ I'm usually like to work on the Front-end, and now currently studying flutter an
 
 I'm interested in web/app and I can handle design tools such as Photoshop, Illustration, and XD a little.
 
-### Welcome to my Github:)
-
 ***
 
 ## 👩🏻‍💻 Tech Stacks 👩🏻‍💻
