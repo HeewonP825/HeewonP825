@@ -27,7 +27,7 @@ I'm interested in web/app and I can handle design tools such as Photoshop, Illus
  <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=Java&logoColor=white"/> <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat&logo=Bootstrap&logoColor=white"/> <img src="https://img.shields.io/badge/Flutter-02569B?style=flat&logo=Flutter&logoColor=white"/> <!-- <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat&logo=Kotlin&logoColor=white"/> -->
   
   
-  ***
+<!--   *** -->
 <!-- 
 
 ## 🙍🏻‍♀️ My Status 🙍🏻‍♀️
