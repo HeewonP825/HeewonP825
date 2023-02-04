@@ -7,6 +7,10 @@ I am a student majoring in Computer Science at university, and I'm now in a 4th 
 I'm usually like to work on the Front-end, and now currently studying flutter and Kotlin.
 
 I'm interested in web/app and I can handle design tools such as Photoshop, Illustration, and XD a little.
+  
+  
+  
+  
 
 <!-- *** -->
 
