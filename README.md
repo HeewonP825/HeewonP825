@@ -6,7 +6,7 @@ I am a student majoring in Computer Science at university.
 
 I'm usually like to work on Andoroid programming, and now currently studying flutter and Kotlin.
 
-I'm interested in web/app and I can handle design tools such as Photoshop, Illustration, and XD a little.
+I'm also interested in Application UX/UI Design and I can handle design tools such as Photoshop, Illustration, and XD a little.
   
   
   
