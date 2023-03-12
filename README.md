@@ -1,8 +1,8 @@
 <div align="center">
 
-Hello!👋🏻
+Hello👋🏻
 =============
-I am a student majoring in Computer Science at university.
+I am a student majoring in Computer Science at KNU.
 
 I'm usually like to work on Andoroid programming, and now currently studying flutter and Kotlin.
 
