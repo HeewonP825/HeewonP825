@@ -4,7 +4,7 @@ Hello👋🏻
 =============
 I am a student majoring in Computer Science at KNU.
 
-I'm usually like to work on Andoroid programming, and now currently studying flutter and Kotlin.
+I'm usually like to work on AOS programming, and now currently studying flutter and Kotlin.
 
 I'm also interested in Application UX/UI Design and I can handle design tools such as Photoshop, Illustration, and XD a little.
   
