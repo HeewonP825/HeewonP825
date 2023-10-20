@@ -14,7 +14,7 @@ I'm also interested in Application UX/UI Design and I can handle design tools su
 
 <!-- *** -->
 
-# 👩🏻‍💻 Tech Stacks 👩🏻‍💻
+# 👩🏻‍💻 Skills 👩🏻‍💻
   
   #### 📚  Studying Nowdays 📚
   
