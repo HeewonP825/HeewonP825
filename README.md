@@ -1,4 +1,6 @@
 <div align="center">
+<img src="https://github.com/HeewonP825/HeewonP825/assets/80496838/361e92cb-177c-4a5c-be11-097d08801d85">
+
 
 Hello👋🏻
 =============
