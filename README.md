@@ -13,10 +13,10 @@ I'm also interested in Application UX/UI Design and I can handle design tools su
 <p>
   
 ### Project List 📚  
-1. [남녀노소 간단 번개 모임 서비스 팟팅](https://play.google.com/store/apps/details?id=com.appdong.partying.prod) (2022.10 ~)
-2. [2023 동계현장실습 졸음운전 방지 앱 DONOF](https://github.com/HeewonP825/Saloris) (2022.12 ~  023.02)
-3. [2022-2 종합설계프로젝트 펫시터-유저 연결 서비스 FitaPet](https://github.com/KNUCapstoneDesignProject/FitaPetService_Client) (2022.09 ~  2022.11)
-4. [2022 대구를 빛내는 SW 해커톤 아이랑(IRang)](https://github.com/HeewonP825/2022-Hackathon-IRang) (2022.09)
+- [남녀노소 간단 번개 모임 서비스 팟팅](https://play.google.com/store/apps/details?id=com.appdong.partying.prod) (2022.10 ~)
+- [2023 동계현장실습 졸음운전 방지 앱 DONOF](https://github.com/HeewonP825/Saloris) (2022.12 ~  023.02)
+- [2022-2 종합설계프로젝트 펫시터-유저 연결 서비스 FitaPet](https://github.com/KNUCapstoneDesignProject/FitaPetService_Client) (2022.09 ~  2022.11)
+- [2022 대구를 빛내는 SW 해커톤 아이랑(IRang)](https://github.com/HeewonP825/2022-Hackathon-IRang) (2022.09)
 
 
 <br>
