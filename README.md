@@ -40,11 +40,11 @@ I'm also interested in Application UX/UI Design and I can handle design tools su
   
   
 
-## 🙍🏻‍♀️ My Status 🙍🏻‍♀️
+<!-- ## 🙍🏻‍♀️ My Status 🙍🏻‍♀️!-->
 
 
 <!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=HeewonP825&show_icons=true&theme=tokyonight&hide_border) !--> 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HeewonP825&layout=compact&show_icons=true&theme=tokyonight&hide_border)
-    </div>
+<!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HeewonP825&layout=compact&show_icons=true&theme=tokyonight&hide_border)
+    </div> !-->
 
 
