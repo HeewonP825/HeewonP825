@@ -4,11 +4,12 @@
 
 Hello👋🏻
 =============
-I major Computer Science at KNU.
 
-I'm usually like to work on AOS programming, and now currently studying flutter and Kotlin.
+major: Computer Science at KNU.
 
-I'm also interested in Application UX/UI Design and I can handle design tools such as Photoshop, Illustration, and XD a little.
+Skills: Android, kotlin, flutter
+
+Studying Nowadays: Application UX/UI Design(Photoshop, Illustration, XD), kotlin Convention, Algorithm
 
 <p>
   
