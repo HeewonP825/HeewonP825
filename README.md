@@ -5,11 +5,11 @@
 Hello👋🏻
 =============
 
-major: Computer Science at KNU.
+📌major: Computer Science at KNU.
 
-Skills: Android, kotlin, flutter
+🛠Skills: Android, kotlin, flutter
 
-Studying Nowadays: Application UX/UI Design(Photoshop, Illustration, XD), kotlin Convention, Algorithm
+📚Studying Nowadays: Application UX/UI Design(Photoshop, Illustration, XD), kotlin Convention, Algorithm
 
 <p>
   
