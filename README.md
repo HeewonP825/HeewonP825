@@ -7,8 +7,6 @@ Hello👋🏻
 
 📌major: Computer Science at KNU.
 
-🛠Skills: Android, kotlin, flutter
-
 📚Studying Nowadays: Application UX/UI Design(Photoshop, Illustration, XD), kotlin Convention, Algorithm, Kotlin MVVM Architecture
 
 <p>
