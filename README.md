@@ -2,12 +2,12 @@
 <img src="https://github.com/HeewonP825/HeewonP825/assets/80496838/361e92cb-177c-4a5c-be11-097d08801d85">
 
 
-Hello👋🏻
+Hello!👋🏻
 =============
 
 📌major: Computer Science at KNU.
 
-📚Studying Nowadays: Application UX/UI Design(Photoshop, Illustration, XD), kotlin Convention, Algorithm, Kotlin MVVM Architecture
+📚Studying Nowadays: Mobile UX/UI Design(Photoshop, Illustration, XD), kotlin Convention, Algorithm, Kotlin MVVM Architecture
 
 <p>
   
