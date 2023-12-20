@@ -9,7 +9,7 @@ Hello!👋🏻
 
 📚Studying Nowadays: <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat&logo=Kotlin&logoColor=white"/> <img src="https://img.shields.io/badge/Flutter-02569B?style=flat&logo=Flutter&logoColor=white"/> <img src="https://img.shields.io/badge/Adobe XD-FF61F6?style=flat&logo=Adobe XD&logoColor=white"/> <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=Java&logoColor=white"/> 
 
-👩🏻‍💻my profile: [notion profile](https://www.notion.so/heewonp/a845e434e01b4ac3b6554416ad525394?pvs=4)
+👩🏻‍💻my profile: [notion profile](https://heewonp.notion.site/a845e434e01b4ac3b6554416ad525394?pvs=4)
 <p>
   
 ### Project List 📚  
