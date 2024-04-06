@@ -5,7 +5,7 @@
 Hello!👋🏻
 =============
 
-📌major: Computer Science at KNU.
+📌major: CSE in KNU.
 
 📚Studying Nowadays: <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat&logo=Kotlin&logoColor=white"/> <img src="https://img.shields.io/badge/Flutter-02569B?style=flat&logo=Flutter&logoColor=white"/> <img src="https://img.shields.io/badge/Adobe XD-FF61F6?style=flat&logo=Adobe XD&logoColor=white"/> <!-- <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=Java&logoColor=white"/> -->
 
@@ -13,11 +13,9 @@ Hello!👋🏻
   
 ### Project List 📚  
 - [남녀노소 간단 번개 모임 서비스 팟팅](https://play.google.com/store/apps/details?id=com.appdong.partying.prod) (2022.10 ~)
-- [2022-2 모바일 앱 프로그래밍1 와인 키오스크 프로그램 와인24](https://github.com/HeewonP825/24mo) (2022.11 ~ 2022.12)
 - [2023 동계현장실습 졸음운전 방지 앱 DONOF](https://github.com/HeewonP825/Saloris) (2022.12 ~  2023.02)
-- [2022-2 종합설계프로젝트 펫시터-유저 연결 서비스 FitaPet](https://github.com/KNUCapstoneDesignProject/FitaPetService_Client) (2022.09 ~  2022.11)
-- [2022 대구를 빛내는 SW 해커톤 아이랑(IRang)](https://github.com/HeewonP825/2022-Hackathon-IRang) (2022.09)
 - [2023 대구를 빛내는 SW 해커톤 비사이드(Be:SIDE)](https://github.com/HeewonP825/Beside-App) (2023.11)
+- [2023 Smilegate DEV Camp 트위터 클론 프로젝트 Easel](https://github.com/sgdevcamp2023/palette) (2023.12 ~ 2024.02)
 
 <br>
 
