@@ -12,7 +12,7 @@ Hello!👋🏻
 <p>
   
 ### Project List 📚  
-- [남녀노소 간단 번개 모임 서비스 팟팅](https://play.google.com/store/apps/details?id=com.appdong.partying.prod) (2022.10 ~)
+- [남녀노소 간단 번개 모임 서비스 팟팅](https://play.google.com/store/apps/details?id=com.appdong.partying.prod) (2022.10 ~ 2023.09)
 - [2023 동계현장실습 졸음운전 방지 앱 DONOF](https://github.com/HeewonP825/Saloris) (2022.12 ~  2023.02)
 - [2023 대구를 빛내는 SW 해커톤 비사이드(Be:SIDE)](https://github.com/HeewonP825/Beside-App) (2023.11)
 - [2023 Smilegate DEV Camp 트위터 클론 프로젝트 Easel](https://github.com/sgdevcamp2023/palette) (2023.12 ~ 2024.02)
