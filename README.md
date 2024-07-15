@@ -17,8 +17,6 @@ Hello!👋🏻
 - [2023 대구를 빛내는 SW 해커톤 비사이드(Be:SIDE)](https://github.com/HeewonP825/Beside-App) (2023.11)
 - [2023 Smilegate DEV Camp 트위터 클론 프로젝트 Easel](https://github.com/sgdevcamp2023/palette) (2023.12 ~ 2024.02)
 
-<br>
-
 
 
 <!-- # 👩🏻‍💻 Skills 👩🏻‍💻 -->
@@ -37,7 +35,7 @@ Hello!👋🏻
 <!-- <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=Java&logoColor=white"/> <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat&logo=Bootstrap&logoColor=white"/> --> 
   
 
-<!-- ## 🙍🏻‍♀️ My Status 🙍🏻‍♀️!-->
+ ### 🙍🏻‍♀️ My Status 🙍🏻‍♀️
 
 
 <!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=HeewonP825&show_icons=true&theme=tokyonight&hide_border) !--> 
