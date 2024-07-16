@@ -5,7 +5,7 @@
 Hello!👋🏻
 =============
 
-📌major: CSE in KNU.
+📌CSE in KNU.
 
 📚Studying Nowadays: <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat&logo=Kotlin&logoColor=white"/> <img src="https://img.shields.io/badge/Flutter-02569B?style=flat&logo=Flutter&logoColor=white"/> <img src="https://img.shields.io/badge/Adobe XD-FF61F6?style=flat&logo=Adobe XD&logoColor=white"/> <!-- <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=Java&logoColor=white"/> -->
 
