@@ -34,11 +34,11 @@ Hello!👋🏻
 <!-- <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=Java&logoColor=white"/> <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat&logo=Bootstrap&logoColor=white"/> --> 
   
 
- ### 🙍🏻‍♀️ My Status 🙍🏻‍♀️
+<!--  ### 🙍🏻‍♀️ My Status 🙍🏻‍♀️ !--> 
 
 
-<!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=HeewonP825&show_icons=true&theme=tokyonight&hide_border) !--> 
+<!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=HeewonP825&show_icons=true&theme=tokyonight&hide_border) 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HeewonP825&layout=compact&show_icons=true&hide_border)
-    </div> 
+    </div> !--> 
 
 
