@@ -14,8 +14,8 @@ Hello!👋🏻
 ### Project List 📚  
 - [2023 동계현장실습 졸음운전 방지 앱 DONOF](https://github.com/HeewonP825/Saloris) (2022.12 ~  2023.02)
 - [2023 Smilegate DEV Camp 트위터 클론 프로젝트 Easel](https://github.com/sgdevcamp2023/palette) (2023.12 ~ 2024.02)
-- [친구와 함께 경쟁하며 달리는 러닝 프로젝트 RaceOn](https://github.com/RaceOnProject/RaceOn-android) (2024.11 ~ 2024.05)
-- [팬 경험 기록 중심의 KBO 야구 직관 기록 다이어리 서비스 크봉(Kbong)](https://github.com/kbong-org/Kbong-Android) (2024.12 ~ 2025.06)
+- 친구와 함께 경쟁하며 달리는 러닝 프로젝트 RaceOn (2024.11 ~ 2024.05)
+- 팬 경험 기록 중심의 KBO 야구 직관 기록 다이어리 서비스 크봉(Kbong) (2024.12 ~ 2025.06)
 
 
 <!-- # 👩🏻‍💻 Skills 👩🏻‍💻 -->
